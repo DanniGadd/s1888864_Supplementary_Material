@@ -1,10 +1,10 @@
 # s1888864_Supplementary_Material
  Supplementary Material for Chapters 6-10 of PhD Thesis by Danni Gadd. All supplementary material is provided for each chapter, along with code for the execution for the relevant study.
 
-# Chapter 6 title:
+### Chapter 6 title:
 Molecular architecture of neuroinflammatory protein S100β and its relationship to Alzheimer’s disease
 
-# Chapter 6 citation:
+### Chapter 6 citation:
 Gadd DA*, McGeachan RI*, Hillary RF*, McCartney DL, Harris SE, Sherwood RA, Abbott NJ, Cox SR, Marioni RE. The genetic and epigenetic profile of serum s100 β in the Lothian Birth Cohort 1936 and its relationship to Alzheimer’s disease [version 2; peer review: 2 approved]. Wellcome Open Research. 2022, 6:306. doi: https://doi.org/10.12688/wellcomeopenres.17322.2. 
 
 # Chapter 7 title:
