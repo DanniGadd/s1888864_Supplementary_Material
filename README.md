@@ -1,5 +1,5 @@
 # s1888864_Supplementary_Material
-Supplementary Material for Chapters 6-10 of PhD Thesis by Danni Gadd. Supplementary material is provided for each chapter, along with code for the execution for the relevant study. The thesis chapter titles are listed below, with the relevant study citation for the work included in each chapter.
+ Supplementary Material for Chapters 6-10 of PhD Thesis by Danni Gadd. Supplementary material is provided for each chapter, along with code for the execution for the relevant study. The thesis chapter titles are listed below, with the relevant study citation for the work included in each chapter.
 
 ### Chapter 6 title:
 Molecular architecture of neuroinflammatory protein S100β and its relationship to Alzheimer’s disease.
